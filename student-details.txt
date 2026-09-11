@@ -3,3 +3,4 @@ bsc
 cs
 23-26
 passed
+elogible
