@@ -1,4 +1,4 @@
-test proj
+main proj
 blahhhhh
 laxmi
 female
